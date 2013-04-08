@@ -1,0 +1,10 @@
+name: Omicron
+main: org.omicroncraft.craftbukkit.Omicron
+version: 0.0.0
+website: http://www.omicroncraft.org/
+description: CraftBukkit plugin for the utlimate real-life RPG. 
+authors: ["Omicron Team", "Robert Myers"]
+commands:
+  omicron:
+    description: Displays information about the "Omicron" plugin.
+    usage: /omicron
