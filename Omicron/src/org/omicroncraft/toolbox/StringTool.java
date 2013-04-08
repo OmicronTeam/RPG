@@ -8,4 +8,7 @@ public class StringTool {
 		return ChatColor.translateAlternateColorCodes('&', string);
 	}
 	
+	public void method() {
+		//Comment
+	}
 }
