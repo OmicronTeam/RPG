@@ -7,8 +7,5 @@ public class StringTool {
 	public static String paint(String string) {
 		return ChatColor.translateAlternateColorCodes('&', string);
 	}
-	
-	public void method() {
-		//Comment
-	}
+
 }
